@@ -1,0 +1,11 @@
+What problems can the Template Method design pattern solve?
+The invariant parts of a behavior should be implemented only once so that subclasses can implement the variant parts.
+Subclasses should redefine only certain parts of a behavior without changing the other parts.
+Usually, subclasses control how the behavior of a parent class is redefined, and they aren't restricted to redefine only certain parts of a behavior.
+What solution does the Template Method design pattern describe?
+Define abstract operations (primitives) for the variant parts of a behavior.
+Define a template method that
+implements the invariant parts of a behavior and
+calls abstract operations (primitives) that subclasses implement.
+The template method controls how subclasses redefine a behavior.
+This is also referred to as inversion of control because subclasses do no longer control how the behavior of a parent class is redefined.
