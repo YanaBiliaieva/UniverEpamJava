@@ -9,4 +9,5 @@
 5. 16_11_2017 [Knight](../tree/master/src/main/java/task5_16_11_2017_Knight)
 6. 23_11_2017 [Text Processing](../tree/master/src/main/java/task6_23_11_2017_TextProcessing)
 7. 23_11_2017 [URL Finder](../tree/master/src/main/java/task7_23_11_2017_URLFinder)
+8. 24_11_2017 Stack Calculator
 
