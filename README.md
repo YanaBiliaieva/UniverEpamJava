@@ -1,5 +1,6 @@
 # UniverEpamJava
-EPAM tasks
+
+----
 0. 02_11_2017 [Figures](../tree/master/src/main/java/task0_02_11_2017_Figures)
 1. 03_11_2017 [Arrays](../tree/master/src/main/java/task1_03_11_2017_Arrays)
 2. 07_11_2017 [Vehicles World](../tree/master/src/main/java/task2_07_11_2017_VehiclesWorld)
