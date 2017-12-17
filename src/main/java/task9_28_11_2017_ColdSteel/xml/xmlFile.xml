@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<knifes xsi:noNamespaceSchemaLocation="xsdFile.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <knife name="GoldenSword">
+        <knifeType>sword</knifeType>
+        <knifeHandy>1</knifeHandy>
+        <knifeOrigin>UK</knifeOrigin>
+        <knifeVisual>
+            <knifeBlade length="21" width="10" metal="gold"/>
+            <knifeHandle>
+                <plastic/>
+            </knifeHandle>
+        </knifeVisual>
+        <collection>true</collection>
+    </knife>
+    <knife name="SilverKnife">
+        <knifeType>knife</knifeType>
+        <knifeHandy>1</knifeHandy>
+        <knifeOrigin>USA</knifeOrigin>
+        <knifeVisual>
+            <knifeBlade length="100" width="11" metal="silver"></knifeBlade>
+            <knifeHandle>
+                <wood type="bamboo"></wood>
+            </knifeHandle>
+        </knifeVisual>
+        <collection>false</collection>
+    </knife>
+    <knife name="PlatinumSword">
+        <knifeType>sword</knifeType>
+        <knifeHandy>2</knifeHandy>
+        <knifeOrigin>Poland</knifeOrigin>
+        <knifeVisual>
+            <knifeBlade length="110" width="12" metal="platinum"></knifeBlade>
+            <knifeHandle>
+                <leatherCoated/>
+            </knifeHandle>
+        </knifeVisual>
+        <collection>true</collection>
+    </knife>
+</knifes>
