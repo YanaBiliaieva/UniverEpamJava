@@ -1,5 +1,5 @@
-# UniverEpamJava
-EPAM tasks:
+# UniverExternalJava
+Tasks:
 ----
 0. 02_11_2017 [Figures](https://github.com/YanaBiliaieva/UniverEpamJava/tree/master/src/main/java/task0_02_11_2017_Figures)
 1. 03_11_2017 [Arrays](https://github.com/YanaBiliaieva/UniverEpamJava/tree/master/src/main/java/task1_03_11_2017_Arrays)
